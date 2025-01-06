@@ -9,7 +9,7 @@ async function imgURLtoBase64(url) {
 }
 
 return (async function() {        
-    const imgSrc = await imgURLtoBase64('https://cdn.jsdelivr.net/gh/ascended12/alterationcity-data/Furina_wink.webp');
+    const imgSrc = await imgURLtoBase64('https://cdn.jsdelivr.net/gh/revision-village/data/Furina_wink.webp');
 
     console.log(
         "%c %c\n\n %c good at deobfuscating javascript? message me on discord @comehomefurina ",
